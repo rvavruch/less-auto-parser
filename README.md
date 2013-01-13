@@ -10,7 +10,7 @@ Node.js script to convert LESS to CSS as you work.
 ## Setup
 
 1. Install [Node.js](http://nodejs.org/)
-2. Run the following command from the commandline: `npm less inotify inotify-plusplus`
+2. Run the following command from the commandline: `npm install less inotify inotify-plusplus`
 3. Download `watch.js` and place it in the root directory of your website
 
 ## Usage
